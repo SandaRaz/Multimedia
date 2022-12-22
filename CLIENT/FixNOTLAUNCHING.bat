@@ -1,0 +1,1 @@
+javac -d . Main.java
