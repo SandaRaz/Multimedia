@@ -1,6 +1,6 @@
 # Multimedia
   ETU002079 RAZANAJATOVO Sanda P15
-        # Streaming Multimedia
+        **Streaming Multimedia
         Fonctionnalité:
           Visionnage d'image, zoom
           Lecture mp3, reglage volume
