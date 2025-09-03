@@ -4,7 +4,5 @@
         Streaming Multimedia
         Fonctionnalités:
           Visionnage d'image, zoom
-          Lecture mp3, reglage volume
+          Lecture mp3, réglage volume
           Configuration ou modification nom du client, port, adresse ip serveur
-
-***Nihena sy lasa ratsy ny qualité an'ilay video satria nahena moin de 25 mo ny taille
